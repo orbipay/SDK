@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://orbipay.org">Website</a> •
-  <a href="https://x.com/orbipay_">Twitter</a> •
-  <a href="https://github.com/orbipay_">GitHub</a> •
-  <a href="https://t.me/orbipay_">Telegram</a>
+  <a href="https://x.com/_orbipayx">Twitter</a> •
+  <a href="https://github.com/orbipay">GitHub</a> •
+  <a href="https://t.me/orbi_pay">Telegram</a>
 </p>
 
 <p align="center">
@@ -127,13 +127,13 @@ Join our community and stay updated:
   <a href="https://orbipay.org">
     <img src="https://img.shields.io/badge/Website-orbipay.org-blueviolet?style=for-the-badge" alt="Website" />
   </a>
-  <a href="https://x.com/orbipay_">
+  <a href="https://x.com/_orbipayx">
     <img src="https://img.shields.io/badge/Twitter-@orbipay__-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
-  <a href="https://github.com/orbipay_">
+  <a href="https://github.com/orbipay">
     <img src="https://img.shields.io/badge/GitHub-orbipay__-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://t.me/orbipay_">
+  <a href="https://t.me/orbi_pay">
     <img src="https://img.shields.io/badge/Telegram-orbipay__-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
 </p>
